@@ -1,6 +1,6 @@
 ﻿# NLW-Habits
 <h1 align="center"> Habits </h1>
-![preview](https://user-images.githubusercontent.com/121648071/213822704-3531e195-0544-46db-83fc-de5bb09bb3ad.jpg)
+https://raw.githubusercontent.com/maykbrito/nlw-setup/main/.github/preview.jpg
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
